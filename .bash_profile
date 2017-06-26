@@ -12,10 +12,7 @@
 #------------------------
 
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
-export PATH="/anaconda/bin:$PATH";
 source ~/.profile
-export PATH="~/GitHub/Starfish/scripts/:$PATH";
-export BAADE="/Users/gully/GitHub/BAADE/"
 
 #source .todo_completion
 #complete -F _todo t
@@ -96,7 +93,7 @@ complete -o "nospace" -W "Contacts Calendar Dock Finder Mail Safari iTunes Syste
 
 # Ruby version manager
 # Load RVM into a shell session *as a function*
-[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" 
+[[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm"
 
 # Ureka setup files (http://ssb.stsci.edu/ureka/)
 #ur_setup() {

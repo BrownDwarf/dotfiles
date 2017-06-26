@@ -1,2 +1,3 @@
+## Profile for obsidian on dust, gully's new macbook pro for KeplerGO
 
-export PATH="$PATH:$HOME/.rvm/bin" # Add RVM to PATH for scripting
+#pass

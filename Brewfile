@@ -8,15 +8,15 @@ cask 'skype'
 cask 'spotify'
 cask 'saoimage-ds9'
 cask 'whatroute'
-cask 'flash'
 cask 'google-drive'
 cask 'sourcetree'
 cask 'xquartz'
 cask 'inkscape'
 cask 'thunderbird'
 cask 'atom'
+cask 'java'
 
-## Mactex fails on installation.  
+## Mactex fails on installation.
 ## But running the command below does fetch the .pkg file.
 #cask 'mactex'
 ## Then navigate to /Library/Caches/Homebrew/ and just open the .pkg file.
@@ -26,7 +26,7 @@ cask 'atom'
 #cask 'dockertoolbox'
 #cask '1password'
 #cask 'adobe-reader'
-#cask 'audacity'
+cask 'audacity'
 #cask 'astrill'
 #cask 'arduino'
 #cask 'alfred'

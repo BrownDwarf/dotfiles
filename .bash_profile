@@ -90,3 +90,5 @@ alias ogc='open -a Google\ Chrome'
 
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 . /Users/obsidian/anaconda3/etc/profile.d/conda.sh
+
+eval "$(direnv hook bash)"

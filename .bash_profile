@@ -91,4 +91,14 @@ alias ogc='open -a Google\ Chrome'
 [[ -s "$HOME/.rvm/scripts/rvm" ]] && source "$HOME/.rvm/scripts/rvm" # Load RVM into a shell session *as a function*
 . /Users/obsidian/anaconda3/etc/profile.d/conda.sh
 
+show_virtual_env() {
+  if [ -n "$CONDA_DEFAULT_ENV" ]; then
+    echo "($(basename $CONDA_DEFAULT_ENV))"
+  fi
+}
+export -f show_virtual_env
+PS1='$(show_virtual_env)'$PS1
+
+export DIRENV_LOG_FORMAT=
+
 eval "$(direnv hook bash)"

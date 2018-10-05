@@ -10,6 +10,9 @@ function doIt() {
 		--exclude ".osx" \
 		--exclude "bootstrap.sh" \
 		--exclude "README.md" \
+		--exclude "Brewfile" \
+		--exclude "brew.sh" \
+		--exclude "*.yml" \
 		--exclude "LICENSE-MIT.txt" \
 		-avh --no-perms . ~;
 	source ~/.bash_profile;

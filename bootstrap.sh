@@ -11,6 +11,8 @@ function doIt() {
 		--exclude "bootstrap.sh" \
 		--exclude "README.md" \
 		--exclude "Brewfile" \
+		--exclude "Gemfile" \
+		--exclude "conda_envs" \
 		--exclude "brew.sh" \
 		--exclude "*.yml" \
 		--exclude "LICENSE-MIT.txt" \

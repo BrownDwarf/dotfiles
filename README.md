@@ -6,6 +6,7 @@ My fork of [Mathias's] dotfiles repo.  A few key differences:
 - added a list of my conda environment.
 - added many casks to the Brewfile.
 - tweaked the bootstrap to limit how much crap is copied into the home directory.
+- Manually install [git-completion](https://apple.stackexchange.com/questions/55875/git-auto-complete-for-branches-at-the-command-line)
 
 The main virtue is having an *awesome* looking iTerm, with awesome aliases:
 ![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)

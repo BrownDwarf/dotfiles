@@ -131,4 +131,7 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-eval $(dircolors -b .dircolors)
+eval $(dircolors -b $HOME/.dircolors)
+export DIRENV_LOG_FORMAT=""
+
+eval "$(direnv hook bash)"

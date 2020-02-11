@@ -1,0 +1,1424 @@
+2017-06-26 17:01:33  (rev 0)
+    +_license-1.1
+    +alabaster-0.7.10
+    +anaconda-4.4.0
+    +anaconda-client-1.6.3
+    +anaconda-navigator-1.6.2
+    +anaconda-project-0.6.0
+    +appnope-0.1.0
+    +appscript-1.0.1
+    +asn1crypto-0.22.0
+    +astroid-1.4.9
+    +astropy-1.3.2
+    +babel-2.4.0
+    +backports-1.0
+    +beautifulsoup4-4.6.0
+    +bitarray-0.8.1
+    +blaze-0.10.1
+    +bleach-1.5.0
+    +bokeh-0.12.5
+    +boto-2.46.1
+    +bottleneck-1.2.1
+    +cffi-1.10.0
+    +chardet-3.0.3
+    +click-6.7
+    +cloudpickle-0.2.2
+    +clyent-1.2.2
+    +colorama-0.3.9
+    +conda-4.3.21
+    +conda-env-2.6.0
+    +contextlib2-0.5.5
+    +cryptography-1.8.1
+    +curl-7.52.1
+    +cycler-0.10.0
+    +cython-0.25.2
+    +cytoolz-0.8.2
+    +dask-0.14.3
+    +datashape-0.5.4
+    +decorator-4.0.11
+    +distributed-1.16.3
+    +docutils-0.13.1
+    +entrypoints-0.2.2
+    +et_xmlfile-1.0.1
+    +fastcache-1.0.2
+    +flask-0.12.2
+    +flask-cors-3.0.2
+    +freetype-2.5.5
+    +get_terminal_size-1.0.0
+    +gevent-1.2.1
+    +greenlet-0.4.12
+    +h5py-2.7.0
+    +hdf5-1.8.17
+    +heapdict-1.0.0
+    +html5lib-0.999
+    +icu-54.1
+    +idna-2.5
+    +imagesize-0.7.1
+    +ipykernel-4.6.1
+    +ipython-5.3.0
+    +ipython_genutils-0.2.0
+    +ipywidgets-6.0.0
+    +isort-4.2.5
+    +itsdangerous-0.24
+    +jbig-2.1
+    +jdcal-1.3
+    +jedi-0.10.2
+    +jinja2-2.9.6
+    +jpeg-9b
+    +jsonschema-2.6.0
+    +jupyter-1.0.0
+    +jupyter_client-5.0.1
+    +jupyter_console-5.1.0
+    +jupyter_core-4.3.0
+    +lazy-object-proxy-1.2.2
+    +libiconv-1.14
+    +libpng-1.6.27
+    +libtiff-4.0.6
+    +libxml2-2.9.4
+    +libxslt-1.1.29
+    +llvmlite-0.18.0
+    +locket-0.2.0
+    +lxml-3.7.3
+    +markupsafe-0.23
+    +matplotlib-2.0.2
+    +mistune-0.7.4
+    +mkl-2017.0.1
+    +mkl-service-1.1.2
+    +mpmath-0.19
+    +msgpack-python-0.4.8
+    +multipledispatch-0.4.9
+    +navigator-updater-0.1.0
+    +nbconvert-5.1.1
+    +nbformat-4.3.0
+    +networkx-1.11
+    +nltk-3.2.3
+    +nose-1.3.7
+    +notebook-5.0.0
+    +numba-0.33.0
+    +numexpr-2.6.2
+    +numpy-1.12.1
+    +numpydoc-0.6.0
+    +odo-0.5.0
+    +olefile-0.44
+    +openpyxl-2.4.7
+    +openssl-1.0.2l
+    +packaging-16.8
+    +pandas-0.20.1
+    +pandocfilters-1.4.1
+    +partd-0.3.8
+    +path.py-10.3.1
+    +pathlib2-2.2.1
+    +patsy-0.4.1
+    +pep8-1.7.0
+    +pexpect-4.2.1
+    +pickleshare-0.7.4
+    +pillow-4.1.1
+    +pip-9.0.1
+    +ply-3.10
+    +prompt_toolkit-1.0.14
+    +psutil-5.2.2
+    +ptyprocess-0.5.1
+    +py-1.4.33
+    +pycosat-0.6.2
+    +pycparser-2.17
+    +pycrypto-2.6.1
+    +pycurl-7.43.0
+    +pyflakes-1.5.0
+    +pygments-2.2.0
+    +pylint-1.6.4
+    +pyodbc-4.0.16
+    +pyopenssl-17.0.0
+    +pyparsing-2.1.4
+    +pyqt-5.6.0
+    +pytables-3.3.0
+    +pytest-3.0.7
+    +python-3.6.1
+    +python-dateutil-2.6.0
+    +python.app-1.2
+    +pytz-2017.2
+    +pywavelets-0.5.2
+    +pyyaml-3.12
+    +pyzmq-16.0.2
+    +qt-5.6.2
+    +qtawesome-0.4.4
+    +qtconsole-4.3.0
+    +qtpy-1.2.1
+    +readline-6.2
+    +requests-2.14.2
+    +rope-0.9.4
+    +ruamel_yaml-0.11.14
+    +scikit-image-0.13.0
+    +scikit-learn-0.18.1
+    +scipy-0.19.0
+    +seaborn-0.7.1
+    +setuptools-27.2.0
+    +simplegeneric-0.8.1
+    +singledispatch-3.4.0.3
+    +sip-4.18
+    +six-1.10.0
+    +snowballstemmer-1.2.1
+    +sortedcollections-0.5.3
+    +sortedcontainers-1.5.7
+    +sphinx-1.5.6
+    +spyder-3.1.4
+    +sqlalchemy-1.1.9
+    +sqlite-3.13.0
+    +statsmodels-0.8.0
+    +sympy-1.0
+    +tblib-1.3.2
+    +terminado-0.6
+    +testpath-0.3
+    +tk-8.5.18
+    +toolz-0.8.2
+    +tornado-4.5.1
+    +traitlets-4.3.2
+    +unicodecsv-0.14.1
+    +unixodbc-2.3.4
+    +wcwidth-0.1.7
+    +werkzeug-0.12.2
+    +wheel-0.29.0
+    +widgetsnbextension-2.0.0
+    +wrapt-1.10.10
+    +xlrd-1.0.0
+    +xlsxwriter-0.9.6
+    +xlwings-0.10.4
+    +xlwt-1.2.0
+    +xz-5.2.2
+    +yaml-0.1.6
+    +zict-0.1.2
+    +zlib-1.2.8
+
+2017-06-26 17:01:35  (rev 1)
+     conda  {4.3.21 -> 4.3.22}
+
+2017-07-24 16:11:02  (rev 2)
+     anaconda  {4.4.0 -> custom}
+     astropy  {1.3.2 -> 2.0}
+
+2017-07-24 16:11:58  (rev 3)
+     astropy  {2.0 -> 2.0}
+     bottleneck  {1.2.1 -> 1.2.1}
+     h5py  {2.7.0 -> 2.7.0}
+     llvmlite  {0.18.0 -> 0.19.0}
+     matplotlib  {2.0.2 -> 2.0.2}
+     numba  {0.33.0 -> 0.34.0}
+     numexpr  {2.6.2 -> 2.6.2}
+     numpy  {1.12.1 -> 1.13.1}
+     pandas  {0.20.1 -> 0.20.2}
+     pytables  {3.3.0 -> 3.3.0}
+     pywavelets  {0.5.2 -> 0.5.2}
+     scikit-image  {0.13.0 -> 0.13.0}
+     scikit-learn  {0.18.1 -> 0.18.2}
+     scipy  {0.19.0 -> 0.19.1}
+     statsmodels  {0.8.0 -> 0.8.0}
+
+2017-07-24 16:21:35  (rev 4)
+     anaconda  {custom -> 4.4.0}
+     astropy  {2.0 -> 1.3.2}
+     bottleneck  {1.2.1 -> 1.2.1}
+     h5py  {2.7.0 -> 2.7.0}
+     llvmlite  {0.19.0 -> 0.18.0}
+     matplotlib  {2.0.2 -> 2.0.2}
+     numba  {0.34.0 -> 0.33.0}
+     numexpr  {2.6.2 -> 2.6.2}
+     numpy  {1.13.1 -> 1.12.1}
+     pandas  {0.20.2 -> 0.20.1}
+     pytables  {3.3.0 -> 3.3.0}
+     pywavelets  {0.5.2 -> 0.5.2}
+     scikit-image  {0.13.0 -> 0.13.0}
+     scikit-learn  {0.18.2 -> 0.18.1}
+     scipy  {0.19.1 -> 0.19.0}
+     statsmodels  {0.8.0 -> 0.8.0}
+
+2017-07-24 16:36:01  (rev 5)
+     anaconda  {4.4.0 -> custom}
+     astropy  {1.3.2 -> 2.0}
+     bottleneck  {1.2.1 -> 1.2.1}
+     h5py  {2.7.0 -> 2.7.0}
+     llvmlite  {0.18.0 -> 0.19.0}
+     matplotlib  {2.0.2 -> 2.0.2}
+     numba  {0.33.0 -> 0.34.0}
+     numexpr  {2.6.2 -> 2.6.2}
+     numpy  {1.12.1 -> 1.13.1}
+     pandas  {0.20.1 -> 0.20.2}
+     pytables  {3.3.0 -> 3.3.0}
+     pywavelets  {0.5.2 -> 0.5.2}
+     scikit-image  {0.13.0 -> 0.13.0}
+     scikit-learn  {0.18.1 -> 0.18.2}
+     scipy  {0.19.0 -> 0.19.1}
+     statsmodels  {0.8.0 -> 0.8.0}
+
+2017-07-26 10:21:22  (rev 6)
+     conda  {4.3.22 -> 4.3.22 (conda-forge)}
+     conda-env  {2.6.0 -> 2.6.0 (conda-forge)}
+    +bzip2-1.0.6 (conda-forge)
+    +ffmpeg-3.2.4 (conda-forge)
+    +x264-20131217 (conda-forge)
+
+2017-07-28 10:08:16  (rev 7)
+     conda  {4.3.22 (conda-forge) -> 4.3.23}
+     conda-env  {2.6.0 (conda-forge) -> 2.6.0}
+     pytest  {3.0.7 -> 3.1.3}
+
+2017-08-02 15:45:06  (rev 8)
+     conda  {4.3.23 -> 4.3.22 (conda-forge)}
+     conda-env  {2.6.0 -> 2.6.0 (conda-forge)}
+    +autograd-1.1.9 (conda-forge)
+    +future-0.16.0 (conda-forge)
+    +pybind11-2.1.1 (conda-forge)
+
+2017-08-11 15:24:57  (rev 9)
+     conda  {4.3.22 (conda-forge) -> 4.3.24}
+     conda-env  {2.6.0 (conda-forge) -> 2.6.0}
+
+2017-08-22 13:24:40  (rev 10)
+     conda  {4.3.24 -> 4.3.23 (conda-forge)}
+     conda-env  {2.6.0 -> 2.6.0 (conda-forge)}
+    +arrow-cpp-0.6.0 (conda-forge)
+    +feather-format-0.4.0 (conda-forge)
+    +parquet-cpp-1.3.0.pre (conda-forge)
+    +pyarrow-0.6.0 (conda-forge)
+
+2017-08-22 14:21:40  (rev 11)
+     bokeh  {0.12.5 -> 0.12.4}
+     conda  {4.3.23 (conda-forge) -> 4.3.24}
+     conda-env  {2.6.0 (conda-forge) -> 2.6.0}
+    +datashader-0.4.0
+    +xarray-0.9.6
+
+2017-08-22 14:45:28  (rev 12)
+    +holoviews-1.6.2 (ioam)
+    +param-1.5.1 (ioam)
+
+2017-08-22 14:50:51  (rev 13)
+     dask  {0.14.3 -> 0.15.1}
+
+2017-09-08 16:06:05  (rev 14)
+     conda  {4.3.24 -> 4.3.25}
+    +astroplan-0.3 (astropy)
+
+2017-09-15 17:57:25  (rev 15)
+     dask  {0.15.1 -> 0.15.2}
+
+2017-09-15 18:09:36  (rev 16)
+     conda  {4.3.25 -> 4.3.23 (conda-forge)}
+     conda-env  {2.6.0 -> 2.6.0 (conda-forge)}
+     dask  {0.15.2 -> 0.15.2 (conda-forge)}
+     distributed  {1.16.3 -> 1.18.3 (conda-forge)}
+    +dask-core-0.15.2 (conda-forge)
+
+2017-09-15 18:14:47  (rev 17)
+     conda  {4.3.23 (conda-forge) -> 4.3.25}
+     conda-env  {2.6.0 (conda-forge) -> 2.6.0}
+
+2017-09-15 18:35:38  (rev 18)
+     appnope  {0.1.0 -> 0.1.0 (intel)}
+     backports  {1.0 -> 1.0 (intel)}
+     bleach  {1.5.0 -> 1.5.0 (intel)}
+     bzip2  {1.0.6 (conda-forge) -> 1.0.6 (intel)}
+     cffi  {1.10.0 -> 1.10.0 (intel)}
+     cycler  {0.10.0 -> 0.10.0 (intel)}
+     cython  {0.25.2 -> 0.25.2 (intel)}
+     decorator  {4.0.11 -> 4.0.11 (intel)}
+     entrypoints  {0.2.2 -> 0.2.2 (intel)}
+     freetype  {2.5.5 -> 2.5.5 (intel)}
+     get_terminal_size  {1.0.0 -> 1.0.0 (intel)}
+     hdf5  {1.8.17 -> 1.8.17 (intel)}
+     html5lib  {0.999 -> 0.999 (intel)}
+     ipykernel  {4.6.1 -> 4.6.1 (intel)}
+     ipython  {5.3.0 -> 6.1.0 (intel)}
+     ipython_genutils  {0.2.0 -> 0.2.0 (intel)}
+     ipywidgets  {6.0.0 -> 6.0.0 (intel)}
+     jinja2  {2.9.6 -> 2.9.6 (intel)}
+     jsonschema  {2.6.0 -> 2.6.0 (intel)}
+     jupyter  {1.0.0 -> 1.0.0 (intel)}
+     jupyter_client  {5.0.1 -> 5.1.0 (intel)}
+     jupyter_console  {5.1.0 -> 5.1.0 (intel)}
+     jupyter_core  {4.3.0 -> 4.3.0 (intel)}
+     libpng  {1.6.27 -> 1.6.30 (intel)}
+     llvmlite  {0.19.0 -> 0.19.0 (intel)}
+     markupsafe  {0.23 -> 0.23 (intel)}
+     mistune  {0.7.4 -> 0.7.4 (intel)}
+     mkl  {2017.0.1 -> 2018.0.0 (intel)}
+     mpmath  {0.19 -> 0.19 (intel)}
+     nbconvert  {5.1.1 -> 5.2.1 (intel)}
+     nbformat  {4.3.0 -> 4.3.0 (intel)}
+     nose  {1.3.7 -> 1.3.7 (intel)}
+     notebook  {5.0.0 -> 5.0.0 (intel)}
+     numba  {0.34.0 -> 0.34.0 (intel)}
+     numexpr  {2.6.2 -> 2.6.2 (intel)}
+     numpy  {1.13.1 -> 1.13.1 (intel)}
+     openssl  {1.0.2l -> 1.0.2k (intel)}
+     pandas  {0.20.2 -> 0.20.2 (intel)}
+     pandocfilters  {1.4.1 -> 1.4.1 (intel)}
+     path.py  {10.3.1 -> 10.3.1 (intel)}
+     pexpect  {4.2.1 -> 4.2.1 (intel)}
+     pickleshare  {0.7.4 -> 0.7.4 (intel)}
+     pip  {9.0.1 -> 9.0.1 (intel)}
+     prompt_toolkit  {1.0.14 -> 1.0.14 (intel)}
+     ptyprocess  {0.5.1 -> 0.5.1 (intel)}
+     pycparser  {2.17 -> 2.17 (intel)}
+     pygments  {2.2.0 -> 2.2.0 (intel)}
+     pyparsing  {2.1.4 -> 2.1.4 (intel)}
+     pytables  {3.3.0 -> 3.3.0 (intel)}
+     python  {3.6.1 -> 3.6.2 (intel)}
+     python-dateutil  {2.6.0 -> 2.6.0 (intel)}
+     pytz  {2017.2 -> 2017.2 (intel)}
+     pyyaml  {3.12 -> 3.12 (intel)}
+     pyzmq  {16.0.2 -> 16.0.2 (intel)}
+     requests  {2.14.2 -> 2.14.2 (intel)}
+     scikit-learn  {0.18.2 -> 0.18.2 (intel)}
+     scipy  {0.19.1 -> 0.19.1 (intel)}
+     setuptools  {27.2.0 -> 27.2.0 (intel)}
+     simplegeneric  {0.8.1 -> 0.8.1 (intel)}
+     six  {1.10.0 -> 1.10.0 (intel)}
+     sqlite  {3.13.0 -> 3.13.0 (intel)}
+     sympy  {1.0 -> 1.0 (intel)}
+     terminado  {0.6 -> 0.6 (intel)}
+     testpath  {0.3 -> 0.3.1 (intel)}
+     tk  {8.5.18 -> 8.6.4 (intel)}
+     tornado  {4.5.1 -> 4.5.1 (intel)}
+     traitlets  {4.3.2 -> 4.3.2 (intel)}
+     wcwidth  {0.1.7 -> 0.1.7 (intel)}
+     wheel  {0.29.0 -> 0.29.0 (intel)}
+     xz  {5.2.2 -> 5.2.2 (intel)}
+     yaml  {0.1.6 -> 0.1.6 (intel)}
+     zlib  {1.2.8 -> 1.2.11 (intel)}
+    +daal-2018.0.0.20170814 (intel)
+    +icc_rt-16.0.3 (intel)
+    +intelpython-2018.0.0 (intel)
+    +openmp-2018.0.0 (intel)
+    +pydaal-2018.0.0.20170814 (intel)
+    +tbb-2018.0.0 (intel)
+    +tcl-8.6.4 (intel)
+
+2017-09-29 07:49:57  (rev 19)
+     conda  {4.3.25 -> 4.3.27}
+
+2017-09-29 07:50:21  (rev 20)
+     conda-env  {2.6.0 -> 2.6.0}
+     holoviews  {1.6.2 (ioam) -> 1.8.3}
+
+2017-10-04 16:31:35  (rev 21)
+     dask  {0.15.2 (conda-forge) -> 0.15.3}
+     dask-core  {0.15.2 (conda-forge) -> 0.15.3}
+     distributed  {1.18.3 (conda-forge) -> 1.19.1}
+     zict  {0.1.2 -> 0.1.3}
+
+2017-10-04 16:32:30  (rev 22)
+     conda  {4.3.27 -> 4.3.27 (conda-forge)}
+     conda-env  {2.6.0 -> 2.6.0 (conda-forge)}
+
+2017-10-13 14:00:48  (rev 23)
+     conda  {4.3.27 (conda-forge) -> 4.3.29}
+     conda-env  {2.6.0 (conda-forge) -> 2.6.0}
+    +pytorch-0.2.0 (soumith)
+    +torchvision-0.1.9 (soumith)
+
+2017-11-03 16:32:18  (rev 24)
+     conda  {4.3.29 -> 4.3.30}
+    +photutils-0.4 (http://ssb.stsci.edu/astroconda)
+
+2017-11-27 14:42:22  (rev 25)
+     alabaster  {0.7.10 -> 0.7.10}
+     anaconda  {custom -> 5.0.1}
+     anaconda-client  {1.6.3 -> 1.6.5}
+     anaconda-navigator  {1.6.2 -> 1.6.9}
+     anaconda-project  {0.6.0 -> 0.8.0}
+     appnope  {0.1.0 (intel) -> 0.1.0}
+     appscript  {1.0.1 -> 1.0.1}
+     asn1crypto  {0.22.0 -> 0.22.0}
+     astroid  {1.4.9 -> 1.5.3}
+     astropy  {2.0 -> 2.0.2}
+     babel  {2.4.0 -> 2.5.0}
+     backports  {1.0 (intel) -> 1.0}
+     beautifulsoup4  {4.6.0 -> 4.6.0}
+     bitarray  {0.8.1 -> 0.8.1}
+     blaze  {0.10.1 -> 0.11.3}
+     bleach  {1.5.0 (intel) -> 2.0.0}
+     bokeh  {0.12.4 -> 0.12.10}
+     boto  {2.46.1 -> 2.48.0}
+     bottleneck  {1.2.1 -> 1.2.1}
+     bzip2  {1.0.6 (intel) -> 1.0.6}
+     cffi  {1.10.0 (intel) -> 1.10.0}
+     chardet  {3.0.3 -> 3.0.4}
+     click  {6.7 -> 6.7}
+     cloudpickle  {0.2.2 -> 0.4.0}
+     clyent  {1.2.2 -> 1.2.2}
+     colorama  {0.3.9 -> 0.3.9}
+     contextlib2  {0.5.5 -> 0.5.5}
+     cryptography  {1.8.1 -> 2.0.3}
+     curl  {7.52.1 -> 7.55.1}
+     cycler  {0.10.0 (intel) -> 0.10.0}
+     cython  {0.25.2 (intel) -> 0.26.1}
+     cytoolz  {0.8.2 -> 0.8.2}
+     datashader  {0.4.0 -> 0.6.2}
+     datashape  {0.5.4 -> 0.5.4}
+     decorator  {4.0.11 (intel) -> 4.1.2}
+     docutils  {0.13.1 -> 0.14}
+     entrypoints  {0.2.2 (intel) -> 0.2.3}
+     et_xmlfile  {1.0.1 -> 1.0.1}
+     fastcache  {1.0.2 -> 1.0.2}
+     flask  {0.12.2 -> 0.12.2}
+     flask-cors  {3.0.2 -> 3.0.3}
+     freetype  {2.5.5 (intel) -> 2.8}
+     get_terminal_size  {1.0.0 (intel) -> 1.0.0}
+     gevent  {1.2.1 -> 1.2.2}
+     greenlet  {0.4.12 -> 0.4.12}
+     h5py  {2.7.0 -> 2.7.0}
+     hdf5  {1.8.17 (intel) -> 1.10.1}
+     heapdict  {1.0.0 -> 1.0.0}
+     html5lib  {0.999 (intel) -> 0.999999999}
+     icu  {54.1 -> 58.2}
+     idna  {2.5 -> 2.6}
+     imagesize  {0.7.1 -> 0.7.1}
+     ipykernel  {4.6.1 (intel) -> 4.6.1}
+     ipython  {6.1.0 (intel) -> 6.1.0}
+     ipython_genutils  {0.2.0 (intel) -> 0.2.0}
+     ipywidgets  {6.0.0 (intel) -> 7.0.0}
+     isort  {4.2.5 -> 4.2.15}
+     itsdangerous  {0.24 -> 0.24}
+     jbig  {2.1 -> 2.1}
+     jdcal  {1.3 -> 1.3}
+     jedi  {0.10.2 -> 0.10.2}
+     jinja2  {2.9.6 (intel) -> 2.9.6}
+     jpeg  {9b -> 9b}
+     jsonschema  {2.6.0 (intel) -> 2.6.0}
+     jupyter  {1.0.0 (intel) -> 1.0.0}
+     jupyter_client  {5.1.0 (intel) -> 5.1.0}
+     jupyter_console  {5.1.0 (intel) -> 5.2.0}
+     jupyter_core  {4.3.0 (intel) -> 4.3.0}
+     lazy-object-proxy  {1.2.2 -> 1.3.1}
+     libiconv  {1.14 -> 1.15}
+     libpng  {1.6.30 (intel) -> 1.6.32}
+     libtiff  {4.0.6 -> 4.0.8}
+     libxml2  {2.9.4 -> 2.9.4}
+     libxslt  {1.1.29 -> 1.1.29}
+     llvmlite  {0.19.0 (intel) -> 0.20.0}
+     locket  {0.2.0 -> 0.2.0}
+     lxml  {3.7.3 -> 4.1.0}
+     markupsafe  {0.23 (intel) -> 1.0}
+     matplotlib  {2.0.2 -> 2.1.0}
+     mistune  {0.7.4 (intel) -> 0.7.4}
+     mkl  {2018.0.0 (intel) -> 2018.0.0}
+     mkl-service  {1.1.2 -> 1.1.2}
+     mpmath  {0.19 (intel) -> 0.19}
+     msgpack-python  {0.4.8 -> 0.4.8}
+     multipledispatch  {0.4.9 -> 0.4.9}
+     navigator-updater  {0.1.0 -> 0.1.0}
+     nbconvert  {5.2.1 (intel) -> 5.3.1}
+     nbformat  {4.3.0 (intel) -> 4.4.0}
+     networkx  {1.11 -> 2.0}
+     nltk  {3.2.3 -> 3.2.4}
+     nose  {1.3.7 (intel) -> 1.3.7}
+     notebook  {5.0.0 (intel) -> 5.0.0}
+     numba  {0.34.0 (intel) -> 0.35.0}
+     numexpr  {2.6.2 (intel) -> 2.6.2}
+     numpy  {1.13.1 (intel) -> 1.13.3}
+     numpydoc  {0.6.0 -> 0.7.0}
+     odo  {0.5.0 -> 0.5.1}
+     olefile  {0.44 -> 0.44}
+     openpyxl  {2.4.7 -> 2.4.8}
+     openssl  {1.0.2k (intel) -> 1.0.2l}
+     packaging  {16.8 -> 16.8}
+     pandas  {0.20.2 (intel) -> 0.20.3}
+     pandocfilters  {1.4.1 (intel) -> 1.4.2}
+     partd  {0.3.8 -> 0.3.8}
+     path.py  {10.3.1 (intel) -> 10.3.1}
+     pathlib2  {2.2.1 -> 2.3.0}
+     patsy  {0.4.1 -> 0.4.1}
+     pep8  {1.7.0 -> 1.7.0}
+     pexpect  {4.2.1 (intel) -> 4.2.1}
+     pickleshare  {0.7.4 (intel) -> 0.7.4}
+     pillow  {4.1.1 -> 4.2.1}
+     pip  {9.0.1 (intel) -> 9.0.1}
+     ply  {3.10 -> 3.10}
+     prompt_toolkit  {1.0.14 (intel) -> 1.0.15}
+     psutil  {5.2.2 -> 5.4.0}
+     ptyprocess  {0.5.1 (intel) -> 0.5.2}
+     py  {1.4.33 -> 1.4.34}
+     pycosat  {0.6.2 -> 0.6.2}
+     pycparser  {2.17 (intel) -> 2.18}
+     pycrypto  {2.6.1 -> 2.6.1}
+     pycurl  {7.43.0 -> 7.43.0}
+     pyflakes  {1.5.0 -> 1.6.0}
+     pygments  {2.2.0 (intel) -> 2.2.0}
+     pylint  {1.6.4 -> 1.7.4}
+     pyodbc  {4.0.16 -> 4.0.17}
+     pyopenssl  {17.0.0 -> 17.2.0}
+     pyparsing  {2.1.4 (intel) -> 2.2.0}
+     pyqt  {5.6.0 -> 5.6.0}
+     pytables  {3.3.0 (intel) -> 3.4.2}
+     pytest  {3.1.3 -> 3.2.1}
+     python  {3.6.2 (intel) -> 3.6.3}
+     python-dateutil  {2.6.0 (intel) -> 2.6.1}
+     python.app  {1.2 -> 2}
+     pytz  {2017.2 (intel) -> 2017.2}
+     pywavelets  {0.5.2 -> 0.5.2}
+     pyyaml  {3.12 (intel) -> 3.12}
+     pyzmq  {16.0.2 (intel) -> 16.0.2}
+     qt  {5.6.2 -> 5.6.2}
+     qtawesome  {0.4.4 -> 0.4.4}
+     qtconsole  {4.3.0 -> 4.3.1}
+     qtpy  {1.2.1 -> 1.3.1}
+     readline  {6.2 -> 7.0}
+     requests  {2.14.2 (intel) -> 2.18.4}
+     rope  {0.9.4 -> 0.10.5}
+     ruamel_yaml  {0.11.14 -> 0.11.14}
+     scikit-image  {0.13.0 -> 0.13.0}
+     scikit-learn  {0.18.2 (intel) -> 0.19.1}
+     scipy  {0.19.1 (intel) -> 0.19.1}
+     seaborn  {0.7.1 -> 0.8.0}
+     setuptools  {27.2.0 (intel) -> 36.5.0}
+     simplegeneric  {0.8.1 (intel) -> 0.8.1}
+     singledispatch  {3.4.0.3 -> 3.4.0.3}
+     sip  {4.18 -> 4.18.1}
+     six  {1.10.0 (intel) -> 1.11.0}
+     snowballstemmer  {1.2.1 -> 1.2.1}
+     sortedcollections  {0.5.3 -> 0.5.3}
+     sortedcontainers  {1.5.7 -> 1.5.7}
+     sphinx  {1.5.6 -> 1.6.3}
+     spyder  {3.1.4 -> 3.2.4}
+     sqlalchemy  {1.1.9 -> 1.1.13}
+     sqlite  {3.13.0 (intel) -> 3.20.1}
+     statsmodels  {0.8.0 -> 0.8.0}
+     sympy  {1.0 (intel) -> 1.1.1}
+     tblib  {1.3.2 -> 1.3.2}
+     terminado  {0.6 (intel) -> 0.6}
+     testpath  {0.3.1 (intel) -> 0.3.1}
+     tk  {8.6.4 (intel) -> 8.6.7}
+     toolz  {0.8.2 -> 0.8.2}
+     tornado  {4.5.1 (intel) -> 4.5.2}
+     traitlets  {4.3.2 (intel) -> 4.3.2}
+     unicodecsv  {0.14.1 -> 0.14.1}
+     unixodbc  {2.3.4 -> 2.3.4}
+     wcwidth  {0.1.7 (intel) -> 0.1.7}
+     werkzeug  {0.12.2 -> 0.12.2}
+     wheel  {0.29.0 (intel) -> 0.29.0}
+     widgetsnbextension  {2.0.0 -> 3.0.2}
+     wrapt  {1.10.10 -> 1.10.11}
+     xlrd  {1.0.0 -> 1.1.0}
+     xlsxwriter  {0.9.6 -> 1.0.2}
+     xlwings  {0.10.4 -> 0.11.4}
+     xlwt  {1.2.0 -> 1.2.0}
+     xz  {5.2.2 (intel) -> 5.2.3}
+     yaml  {0.1.6 (intel) -> 0.1.7}
+     zlib  {1.2.11 (intel) -> 1.2.11}
+    +backports.shutil_get_terminal_size-1.0.0
+    +bkcharts-0.2
+    +ca-certificates-2017.08.26
+    +certifi-2017.7.27.1
+    +colorcet-0.9.1
+    +dbus-1.10.22
+    +expat-2.2.4
+    +filelock-2.0.12
+    +gettext-0.19.8.1
+    +glib-2.53.6
+    +glob2-0.5
+    +gmp-6.1.2
+    +gmpy2-2.0.8
+    +imageio-2.2.0
+    +intel-openmp-2018.0.0
+    +jupyterlab-0.27.0
+    +jupyterlab_launcher-0.4.0
+    +libcxx-4.0.1
+    +libcxxabi-4.0.1
+    +libedit-3.1
+    +libffi-3.2.1
+    +libgfortran-3.0.1
+    +libsodium-1.0.13
+    +libssh2-1.8.0
+    +lzo-2.10
+    +mccabe-0.6.1
+    +mpc-1.0.3
+    +mpfr-3.1.5
+    +ncurses-6.0
+    +pandoc-1.19.2.1
+    +pcre-8.41
+    +pkginfo-1.4.1
+    +pycodestyle-2.3.1
+    +pysocks-1.6.7
+    +sphinxcontrib-1.0
+    +sphinxcontrib-websupport-1.0.1
+    +typing-3.6.2
+    +urllib3-1.22
+    +webencodings-0.5.1
+    +zeromq-4.2.2
+
+2017-11-28 16:41:05  (rev 26)
+     anaconda  {5.0.1 -> custom}
+     appnope  {0.1.0 -> 0.1.0 (intel)}
+     backports  {1.0 -> 1.0 (intel)}
+     bleach  {2.0.0 -> 2.0.0 (intel)}
+     bzip2  {1.0.6 -> 1.0.6 (intel)}
+     certifi  {2017.7.27.1 -> 2017.7.27.1 (intel)}
+     cffi  {1.10.0 -> 1.10.0 (intel)}
+     chardet  {3.0.4 -> 3.0.4 (intel)}
+     cryptography  {2.0.3 -> 2.0.3 (intel)}
+     cycler  {0.10.0 -> 0.10.0 (intel)}
+     cython  {0.26.1 -> 0.27.1 (intel)}
+     decorator  {4.1.2 -> 4.1.2 (intel)}
+     entrypoints  {0.2.3 -> 0.2.3 (intel)}
+     freetype  {2.8 -> 2.8 (intel)}
+     get_terminal_size  {1.0.0 -> 1.0.0 (intel)}
+     hdf5  {1.10.1 -> 1.10.1 (intel)}
+     html5lib  {0.999999999 -> 0.999999999 (intel)}
+     idna  {2.6 -> 2.6 (intel)}
+     ipykernel  {4.6.1 -> 4.6.1 (intel)}
+     ipython  {6.1.0 -> 6.1.0 (intel)}
+     ipython_genutils  {0.2.0 -> 0.2.0 (intel)}
+     ipywidgets  {7.0.0 -> 7.0.0 (intel)}
+     jinja2  {2.9.6 -> 2.9.6 (intel)}
+     jsonschema  {2.6.0 -> 2.6.0 (intel)}
+     jupyter  {1.0.0 -> 1.0.0 (intel)}
+     jupyter_client  {5.1.0 -> 5.1.0 (intel)}
+     jupyter_console  {5.2.0 -> 5.1.0 (intel)}
+     jupyter_core  {4.3.0 -> 4.3.0 (intel)}
+     libpng  {1.6.32 -> 1.6.32 (intel)}
+     llvmlite  {0.20.0 -> 0.20.0 (intel)}
+     markupsafe  {1.0 -> 1.0 (intel)}
+     matplotlib  {2.1.0 -> 2.0.2 (intel)}
+     mistune  {0.7.4 -> 0.7.4 (intel)}
+     mpmath  {0.19 -> 0.19 (intel)}
+     nbconvert  {5.3.1 -> 5.2.1 (intel)}
+     nbformat  {4.4.0 -> 4.4.0 (intel)}
+     nose  {1.3.7 -> 1.3.7 (intel)}
+     notebook  {5.0.0 -> 5.0.0 (intel)}
+     numba  {0.35.0 -> 0.35.0 (intel)}
+     numexpr  {2.6.2 -> 2.6.2 (intel)}
+     numpy  {1.13.3 -> 1.13.3 (intel)}
+     openssl  {1.0.2l -> 1.0.2l (intel)}
+     pandas  {0.20.3 -> 0.20.3 (intel)}
+     pandocfilters  {1.4.2 -> 1.4.1 (intel)}
+     path.py  {10.3.1 -> 10.3.1 (intel)}
+     pexpect  {4.2.1 -> 4.2.1 (intel)}
+     pickleshare  {0.7.4 -> 0.7.4 (intel)}
+     pip  {9.0.1 -> 9.0.1 (intel)}
+     prompt_toolkit  {1.0.15 -> 1.0.15 (intel)}
+     ptyprocess  {0.5.2 -> 0.5.2 (intel)}
+     pycparser  {2.18 -> 2.18 (intel)}
+     pygments  {2.2.0 -> 2.2.0 (intel)}
+     pyopenssl  {17.2.0 -> 17.2.0 (intel)}
+     pyparsing  {2.2.0 -> 2.2.0 (intel)}
+     pysocks  {1.6.7 -> 1.6.7 (intel)}
+     pytables  {3.4.2 -> 3.4.2 (intel)}
+     python  {3.6.3 -> 3.6.3 (intel)}
+     python-dateutil  {2.6.1 -> 2.6.0 (intel)}
+     pytz  {2017.2 -> 2017.2 (intel)}
+     pyyaml  {3.12 -> 3.12 (intel)}
+     pyzmq  {16.0.2 -> 16.0.2 (intel)}
+     requests  {2.18.4 -> 2.18.4 (intel)}
+     scikit-learn  {0.19.1 -> 0.19.0 (intel)}
+     scipy  {0.19.1 -> 0.19.1 (intel)}
+     setuptools  {36.5.0 -> 27.2.0 (intel)}
+     simplegeneric  {0.8.1 -> 0.8.1 (intel)}
+     six  {1.11.0 -> 1.10.0 (intel)}
+     sqlite  {3.20.1 -> 3.20.1 (intel)}
+     sympy  {1.1.1 -> 1.1.1 (intel)}
+     terminado  {0.6 -> 0.6 (intel)}
+     testpath  {0.3.1 -> 0.3.1 (intel)}
+     tk  {8.6.7 -> 8.6.4 (intel)}
+     tornado  {4.5.2 -> 4.5.2 (intel)}
+     traitlets  {4.3.2 -> 4.3.2 (intel)}
+     urllib3  {1.22 -> 1.22 (intel)}
+     wcwidth  {0.1.7 -> 0.1.7 (intel)}
+     wheel  {0.29.0 -> 0.29.0 (intel)}
+     xz  {5.2.3 -> 5.2.3 (intel)}
+     yaml  {0.1.7 -> 0.1.7 (intel)}
+     zlib  {1.2.11 -> 1.2.11 (intel)}
+    +mkl_fft-1.0.0 (intel)
+    +mkl_random-1.0.0 (intel)
+
+2017-12-08 16:02:43  (rev 27)
+    +pandas-profiling-1.4.0 (jos_pol)
+
+2017-12-12 17:20:18  (rev 28)
+     conda  {4.3.30 -> 4.3.29 (conda-forge)}
+     conda-env  {2.6.0 -> 2.6.0 (conda-forge)}
+     pybind11  {2.1.1 (conda-forge) -> 2.2.1 (conda-forge)}
+
+2018-02-12 14:15:56  (rev 29)
+     bokeh  {0.12.10 -> 0.12.13}
+     conda  {4.3.29 (conda-forge) -> 4.4.10}
+     conda-env  {2.6.0 (conda-forge) -> 2.6.0}
+     pycosat  {0.6.2 -> 0.6.3}
+
+2018-02-21 13:11:21  (rev 30)
+     astropy  {2.0.2 -> 3.0}
+    +pytest-arraydiff-0.2
+    +pytest-astropy-0.2.1
+    +pytest-doctestplus-0.1.2
+    +pytest-openfiles-0.2.0
+    +pytest-remotedata-0.2.0
+
+2018-02-23 22:53:03  (rev 31)
+    +cmake-3.9.4
+    +libuv-1.14.0
+    +rhash-1.3.5
+
+2018-02-28 17:46:23  (rev 32)
+    +line_profiler-2.0
+
+2018-03-30 13:10:56  (rev 33)
+     certifi  {2017.7.27.1 (intel) -> 2018.1.18 (intel)}
+     libffi  {3.2.1 -> 3.2.1 (intel)}
+     openssl  {1.0.2l (intel) -> 1.0.2n (intel)}
+
+2018-03-30 13:11:35  (rev 34)
+     conda  {4.4.10 -> 4.5.0}
+     setuptools  {27.2.0 (intel) -> 36.5.0 (intel)}
+
+2018-03-30 13:15:30  (rev 35)
+     ca-certificates  {2017.08.26 -> 2018.1.18 (conda-forge)}
+     certifi  {2018.1.18 (intel) -> 2018.1.18 (conda-forge)}
+     conda  {4.5.0 -> 4.3.34 (conda-forge)}
+     jupyterlab  {0.27.0 -> 0.31.12 (conda-forge)}
+     jupyterlab_launcher  {0.4.0 -> 0.10.5 (conda-forge)}
+     openssl  {1.0.2n (intel) -> 1.0.2n (conda-forge)}
+     setuptools  {36.5.0 (intel) -> 27.2.0 (intel)}
+
+2018-03-30 13:28:37  (rev 36)
+     certifi  {2018.1.18 (conda-forge) -> 2018.1.18 (intel)}
+     conda-env  {2.6.0 -> 2.6.0 (conda-forge)}
+     ipywidgets  {7.0.0 (intel) -> 7.1.2 (conda-forge)}
+     openssl  {1.0.2n (conda-forge) -> 1.0.2n (intel)}
+     widgetsnbextension  {3.0.2 -> 3.1.4 (conda-forge)}
+
+2018-03-30 14:06:24  (rev 37)
+     bokeh  {0.12.13 -> 0.12.15}
+     conda  {4.3.34 (conda-forge) -> 4.5.0}
+     conda-env  {2.6.0 (conda-forge) -> 2.6.0}
+     ipywidgets  {7.1.2 (conda-forge) -> 7.0.0 (intel)}
+
+2018-04-03 16:09:09  (rev 38)
+    +selenium-2.49.2 (http://ssb.stsci.edu/astroconda)
+
+2018-04-03 16:31:30  (rev 39)
+     certifi  {2018.1.18 (intel) -> 2018.1.18 (conda-forge)}
+     openssl  {1.0.2n (intel) -> 1.0.2n (conda-forge)}
+    +phantomjs-2.1.1 (conda-forge)
+
+2018-04-11 12:37:32  (rev 40)
+     certifi  {2018.1.18 (conda-forge) -> 2018.1.18 (intel)}
+     openssl  {1.0.2n (conda-forge) -> 1.0.2n (intel)}
+
+2018-04-11 12:42:39  (rev 41)
+     arrow-cpp  {0.6.0 (conda-forge) -> 0.9.0 (conda-forge)}
+     ca-certificates  {2018.1.18 (conda-forge) -> 2018.03.07}
+     colorcet  {0.9.1 -> 1.0.0}
+     daal  {2018.0.0.20170814 (intel) -> 2018.0.2.20180124 (intel)}
+     datashader  {0.6.2 -> 0.6.2 (bokeh)}
+     libxml2  {2.9.4 -> 2.9.8}
+     libxslt  {1.1.29 -> 1.1.32}
+     llvmlite  {0.20.0 (intel) -> 0.21.0 (intel)}
+     lxml  {4.1.0 -> 4.2.1}
+     matplotlib  {2.0.2 (intel) -> 2.1.1 (intel)}
+     mkl_fft  {1.0.0 (intel) -> 1.0.1 (intel)}
+     mkl_random  {1.0.0 (intel) -> 1.0.1 (intel)}
+     networkx  {2.0 -> 2.1}
+     notebook  {5.0.0 (intel) -> 5.2.2 (intel)}
+     numba  {0.35.0 (intel) -> 0.36.2 (intel)}
+     numexpr  {2.6.2 (intel) -> 2.6.4 (intel)}
+     numpy  {1.13.3 (intel) -> 1.14.0 (intel)}
+     packaging  {16.8 -> 17.1}
+     pandas  {0.20.3 (intel) -> 0.22.0 (intel)}
+     parquet-cpp  {1.3.0.pre (conda-forge) -> 1.4.0 (conda-forge)}
+     py  {1.4.34 -> 1.5.3}
+     pyarrow  {0.6.0 (conda-forge) -> 0.9.0 (conda-forge)}
+     pycurl  {7.43.0 -> 7.43.0.1}
+     pydaal  {2018.0.0.20170814 (intel) -> 2018.0.2.20180124 (intel)}
+     pytables  {3.4.2 (intel) -> 3.4.2 (intel)}
+     pytest  {3.2.1 -> 3.5.0}
+     python  {3.6.3 (intel) -> 3.6.3 (intel)}
+     scikit-learn  {0.19.0 (intel) -> 0.19.1 (intel)}
+     scipy  {0.19.1 (intel) -> 1.0.0 (intel)}
+     selenium  {2.49.2 (http://ssb.stsci.edu/astroconda) -> 3.11.0}
+     setuptools  {27.2.0 (intel) -> 36.5.0 (intel)}
+     sphinx  {1.6.3 -> 1.7.2}
+     sympy  {1.1.1 (intel) -> 1.1.1 (intel)}
+    +apipkg-1.4
+    +attrs-17.4.0
+    +boost-cpp-1.66.0 (conda-forge)
+    +coverage-4.5.1
+    +execnet-1.5.0
+    +flake8-3.5.0
+    +flexx-0.4.1 (conda-forge)
+    +futures-compat-1.0
+    +icalendar-4.0.1 (conda-forge)
+    +mock-2.0.0
+    +more-itertools-4.1.0
+    +nodejs-8.9.3
+    +pbr-4.0.0
+    +pluggy-0.6.0
+    +pyshp-1.2.12
+    +pytest-base-url-1.4.1
+    +pytest-cov-2.5.1
+    +pytest-forked-0.2
+    +pytest-html-1.16.1
+    +pytest-metadata-1.6.0
+    +pytest-selenium-1.12.0
+    +pytest-variables-1.7.1
+    +pytest-xdist-1.22.2
+
+2018-04-11 14:43:43  (rev 42)
+     llvmlite  {0.21.0 (intel) -> 0.20.0 (intel)}
+     numba  {0.36.2 (intel) -> 0.35.0 (intel)}
+    -blaze-0.11.3
+    -bokeh-0.12.15
+    -dask-0.15.3
+    -datashader-0.6.2 (bokeh)
+    -odo-0.5.1
+    -photutils-0.4 (http://ssb.stsci.edu/astroconda)
+    -scikit-image-0.13.0
+
+2018-04-11 19:39:01  (rev 43)
+     matplotlib  {2.1.1 (intel) -> 2.0.2 (intel)}
+     mkl_fft  {1.0.1 (intel) -> 1.0.0 (intel)}
+     mkl_random  {1.0.1 (intel) -> 1.0.0 (intel)}
+     numexpr  {2.6.4 (intel) -> 2.6.2 (intel)}
+     numpy  {1.14.0 (intel) -> 1.13.3 (intel)}
+     pandas  {0.22.0 (intel) -> 0.20.3 (intel)}
+     pydaal  {2018.0.2.20180124 (intel) -> 2018.0.0.20170814 (intel)}
+     pytables  {3.4.2 (intel) -> 3.4.2 (intel)}
+     scikit-learn  {0.19.1 (intel) -> 0.19.0 (intel)}
+     scipy  {1.0.0 (intel) -> 0.19.1 (intel)}
+
+2018-04-11 19:42:37  (rev 44)
+     dask-core  {0.15.3 -> 0.17.2}
+     distributed  {1.19.1 -> 1.21.6}
+     matplotlib  {2.0.2 (intel) -> 2.1.1 (intel)}
+     mkl_fft  {1.0.0 (intel) -> 1.0.1 (intel)}
+     mkl_random  {1.0.0 (intel) -> 1.0.1 (intel)}
+     numexpr  {2.6.2 (intel) -> 2.6.4 (intel)}
+     numpy  {1.13.3 (intel) -> 1.14.0 (intel)}
+     pandas  {0.20.3 (intel) -> 0.22.0 (intel)}
+     pydaal  {2018.0.0.20170814 (intel) -> 2018.0.2.20180124 (intel)}
+     pytables  {3.4.2 (intel) -> 3.4.2 (intel)}
+     scikit-learn  {0.19.0 (intel) -> 0.19.1 (intel)}
+     scipy  {0.19.1 (intel) -> 1.0.0 (intel)}
+    +bokeh-0.12.15
+    +dask-0.17.2
+
+2018-04-17 11:02:51  (rev 45)
+     ca-certificates  {2018.03.07 -> 2018.4.16 (conda-forge)}
+     certifi  {2018.1.18 (intel) -> 2018.4.16 (conda-forge)}
+     conda  {4.5.0 -> 4.5.1 (conda-forge)}
+     flake8  {3.5.0 -> 3.3.0 (conda-forge)}
+     numpy  {1.14.0 (intel) -> 1.14.2 (conda-forge)}
+     openssl  {1.0.2n (intel) -> 1.0.2o (conda-forge)}
+     pybind11  {2.2.1 (conda-forge) -> 2.2.2 (conda-forge)}
+     pyflakes  {1.6.0 -> 1.5.0 (conda-forge)}
+     scipy  {1.0.0 (intel) -> 1.0.1 (conda-forge)}
+     setuptools  {36.5.0 (intel) -> 27.2.0 (intel)}
+    +blas-1.1 (conda-forge)
+    +openblas-0.2.20 (conda-forge)
+
+2018-04-17 11:19:22  (rev 46)
+     blas  {1.1 (conda-forge) -> 1.0 (conda-forge)}
+     ca-certificates  {2018.4.16 (conda-forge) -> 2018.03.07}
+     certifi  {2018.4.16 (conda-forge) -> 2018.1.18 (intel)}
+     conda  {4.5.1 (conda-forge) -> 4.5.1}
+     numpy  {1.14.2 (conda-forge) -> 1.14.0 (intel)}
+     openssl  {1.0.2o (conda-forge) -> 1.0.2n (intel)}
+     scipy  {1.0.1 (conda-forge) -> 1.0.0 (intel)}
+     setuptools  {27.2.0 (intel) -> 36.5.0 (intel)}
+
+2018-04-19 12:32:29  (rev 47)
+     pytorch  {0.2.0 (soumith) -> 0.3.1 (pytorch)}
+     torchvision  {0.1.9 (soumith) -> 0.2.0 (pytorch)}
+
+2018-04-19 12:41:58  (rev 48)
+     cffi  {1.10.0 (intel) -> 1.11.2 (intel)}
+     mkl  {2018.0.0 -> 2018.0.2 (intel)}
+     typing  {3.6.2 -> 3.6.4}
+    +mkl-include-2018.0.2 (intel)
+
+2018-05-15 13:35:24  (rev 49)
+     blas  {1.0 (conda-forge) -> 1.0}
+     conda  {4.5.1 -> 4.5.3}
+    +scikit-image-0.13.1
+
+2018-05-18 14:01:36  (rev 50)
+     conda  {4.5.3 -> 4.5.4}
+    +photutils-0.4 (astropy)
+
+2018-07-25 10:55:25  (rev 51)
+     asn1crypto  {0.22.0 -> 0.24.0 (intel)}
+     ca-certificates  {2018.03.07 -> 2018.4.16 (conda-forge)}
+     certifi  {2018.1.18 (intel) -> 2018.4.16 (conda-forge)}
+     conda  {4.5.4 -> 4.5.8 (conda-forge)}
+     jedi  {0.10.2 -> 0.12.0 (intel)}
+     openssl  {1.0.2n (intel) -> 1.0.2o (conda-forge)}
+    +ads-0.12.3 (conda-forge)
+    +astrocats-0.3.31 (conda-forge)
+    +astroquery-0.3.8 (conda-forge)
+    +blinker-1.4 (conda-forge)
+    +emcee-2.2.1 (conda-forge)
+    +extinction-0.3.0 (conda-forge)
+    +gitdb2-2.0.4 (conda-forge)
+    +gitpython-2.1.11 (conda-forge)
+    +inflect-0.2.5 (conda-forge)
+    +keyring-13.2.1 (conda-forge)
+    +mosfit-1.1.1 (conda-forge)
+    +mpi-1.0 (conda-forge)
+    +mpi4py-3.0.0 (conda-forge)
+    +mpich-3.2.1 (conda-forge)
+    +nbstripout-0.3.2 (conda-forge)
+    +oauthlib-2.1.0 (conda-forge)
+    +palettable-3.1.1 (conda-forge)
+    +parso-0.2.0 (intel)
+    +pyjwt-1.6.4 (conda-forge)
+    +requests-oauthlib-1.0.0 (conda-forge)
+    +schwimmbad-0.3.0 (conda-forge)
+    +smmap2-2.0.4 (conda-forge)
+    +tqdm-4.23.4 (conda-forge)
+    +tweepy-3.6.0 (conda-forge)
+
+2018-08-07 14:23:35  (rev 52)
+     ca-certificates  {2018.4.16 (conda-forge) -> 2018.03.07}
+     certifi  {2018.4.16 (conda-forge) -> 2018.1.18 (intel)}
+     conda  {4.5.8 (conda-forge) -> 4.5.9}
+     openssl  {1.0.2o (conda-forge) -> 1.0.2o (intel)}
+    -astrocats-0.3.31 (conda-forge)
+    -astroplan-0.3 (astropy)
+    -astropy-3.0
+    -astroquery-0.3.8 (conda-forge)
+    -mosfit-1.1.1 (conda-forge)
+    -photutils-0.4 (astropy)
+
+2018-08-22 09:51:55  (rev 53)
+     conda  {4.5.9 -> 4.5.10}
+    +jupyter_contrib_core-0.3.3 (conda-forge)
+    +jupyter_contrib_nbextensions-0.5.0 (conda-forge)
+    +jupyter_highlight_selected_word-0.2.0 (conda-forge)
+    +jupyter_latex_envs-1.4.4 (conda-forge)
+    +jupyter_nbextensions_configurator-0.4.0 (conda-forge)
+
+2018-08-23 12:32:54  (rev 54)
+     bokeh  {0.12.15 -> 0.13.0}
+
+2018-09-12 13:53:55  (rev 55)
+     appnope  {0.1.0 (intel) -> 0.1.0}
+     asn1crypto  {0.24.0 (intel) -> 0.24.0}
+     backports  {1.0 (intel) -> 1.0}
+     bleach  {2.0.0 (intel) -> 2.1.4}
+     bzip2  {1.0.6 (intel) -> 1.0.6}
+     certifi  {2018.1.18 (intel) -> 2018.8.24}
+     cffi  {1.11.2 (intel) -> 1.11.5}
+     chardet  {3.0.4 (intel) -> 3.0.4}
+     conda  {4.5.10 -> 4.5.11}
+     cryptography  {2.0.3 (intel) -> 2.3.1}
+     cycler  {0.10.0 (intel) -> 0.10.0}
+     cython  {0.27.1 (intel) -> 0.28.5}
+     daal  {2018.0.2.20180124 (intel) -> 2019.0 (intel)}
+     decorator  {4.1.2 (intel) -> 4.3.0}
+     entrypoints  {0.2.3 (intel) -> 0.2.3}
+     freetype  {2.8 (intel) -> 2.8}
+     get_terminal_size  {1.0.0 (intel) -> 1.0.0}
+     hdf5  {1.10.1 (intel) -> 1.10.1}
+     html5lib  {0.999999999 (intel) -> 1.0.1}
+     icc_rt  {16.0.3 (intel) -> 2019.0 (intel)}
+     idna  {2.6 (intel) -> 2.7}
+     intelpython  {2018.0.0 (intel) -> 2019.0 (intel)}
+     ipykernel  {4.6.1 (intel) -> 4.9.0}
+     ipython  {6.1.0 (intel) -> 6.5.0}
+     ipython_genutils  {0.2.0 (intel) -> 0.2.0}
+     ipywidgets  {7.0.0 (intel) -> 7.1.2}
+     jedi  {0.12.0 (intel) -> 0.12.1}
+     jinja2  {2.9.6 (intel) -> 2.10}
+     jsonschema  {2.6.0 (intel) -> 2.6.0}
+     jupyter  {1.0.0 (intel) -> 1.0.0}
+     jupyter_client  {5.1.0 (intel) -> 5.2.3}
+     jupyter_console  {5.1.0 (intel) -> 5.2.0}
+     jupyter_core  {4.3.0 (intel) -> 4.4.0}
+     libffi  {3.2.1 (intel) -> 3.2.1}
+     libpng  {1.6.32 (intel) -> 1.6.34}
+     llvmlite  {0.20.0 (intel) -> 0.24.0}
+     markupsafe  {1.0 (intel) -> 1.0}
+     matplotlib  {2.1.1 (intel) -> 2.2.2}
+     mistune  {0.7.4 (intel) -> 0.8.3}
+     mkl_fft  {1.0.1 (intel) -> 1.0.1}
+     mkl_random  {1.0.1 (intel) -> 1.0.1}
+     mpmath  {0.19 (intel) -> 1.0.0}
+     nbconvert  {5.2.1 (intel) -> 5.3.1}
+     nbformat  {4.4.0 (intel) -> 4.4.0}
+     nose  {1.3.7 (intel) -> 1.3.7}
+     notebook  {5.2.2 (intel) -> 5.4.1}
+     numba  {0.35.0 (intel) -> 0.39.0}
+     numexpr  {2.6.4 (intel) -> 2.6.5}
+     numpy  {1.14.0 (intel) -> 1.14.2}
+     openssl  {1.0.2o (intel) -> 1.0.2p}
+     pandas  {0.22.0 (intel) -> 0.22.0}
+     pandocfilters  {1.4.1 (intel) -> 1.4.2}
+     parso  {0.2.0 (intel) -> 0.3.1}
+     path.py  {10.3.1 (intel) -> 11.1.0}
+     pexpect  {4.2.1 (intel) -> 4.6.0}
+     pickleshare  {0.7.4 (intel) -> 0.7.4}
+     pip  {9.0.1 (intel) -> 10.0.1}
+     prompt_toolkit  {1.0.15 (intel) -> 1.0.15}
+     ptyprocess  {0.5.2 (intel) -> 0.6.0}
+     pycparser  {2.18 (intel) -> 2.18}
+     pydaal  {2018.0.2.20180124 (intel) -> 2019.0.0.20180713 (intel)}
+     pygments  {2.2.0 (intel) -> 2.2.0}
+     pyopenssl  {17.2.0 (intel) -> 18.0.0}
+     pyparsing  {2.2.0 (intel) -> 2.2.0}
+     pysocks  {1.6.7 (intel) -> 1.6.8}
+     pytables  {3.4.2 (intel) -> 3.4.3}
+     python  {3.6.3 (intel) -> 3.6.5}
+     python-dateutil  {2.6.0 (intel) -> 2.7.3}
+     pytz  {2017.2 (intel) -> 2018.5}
+     pyyaml  {3.12 (intel) -> 3.13}
+     pyzmq  {16.0.2 (intel) -> 16.0.3}
+     requests  {2.18.4 (intel) -> 2.19.1}
+     scikit-learn  {0.19.1 (intel) -> 0.19.1}
+     scipy  {1.0.0 (intel) -> 1.1.0}
+     simplegeneric  {0.8.1 (intel) -> 0.8.1}
+     six  {1.10.0 (intel) -> 1.11.0}
+     sqlite  {3.20.1 (intel) -> 3.23.1}
+     sympy  {1.1.1 (intel) -> 1.2}
+     tbb  {2018.0.0 (intel) -> 2019.0 (intel)}
+     tcl  {8.6.4 (intel) -> 8.6.4 (intel)}
+     terminado  {0.6 (intel) -> 0.8.1}
+     testpath  {0.3.1 (intel) -> 0.3.1}
+     tk  {8.6.4 (intel) -> 8.6.8}
+     tornado  {4.5.2 (intel) -> 5.1}
+     traitlets  {4.3.2 (intel) -> 4.3.2}
+     urllib3  {1.22 (intel) -> 1.23}
+     wcwidth  {0.1.7 (intel) -> 0.1.7}
+     wheel  {0.29.0 (intel) -> 0.31.1}
+     xz  {5.2.3 (intel) -> 5.2.4}
+     yaml  {0.1.7 (intel) -> 0.1.7}
+     zlib  {1.2.11 (intel) -> 1.2.11}
+    +backcall-0.1.0
+    +blosc-1.14.4
+    +kiwisolver-1.0.1
+    +send2trash-1.5.0
+    +snappy-1.1.7
+    +tbb4py-2019.0 (intel)
+
+2018-09-14 11:24:00  (rev 56)
+     certifi  {2018.8.24 -> 2018.1.18 (intel)}
+     cryptography  {2.3.1 -> 2.3 (intel)}
+     jupyter  {1.0.0 -> 1.0.0 (intel)}
+     openssl  {1.0.2p -> 1.0.2o (intel)}
+
+2018-09-14 11:28:28  (rev 57)
+     ca-certificates  {2018.03.07 -> 2018.8.24 (conda-forge)}
+     certifi  {2018.1.18 (intel) -> 2018.8.24 (conda-forge)}
+     conda  {4.5.11 -> 4.5.11 (conda-forge)}
+     openssl  {1.0.2o (intel) -> 1.0.2p (conda-forge)}
+     pyzmq  {16.0.3 -> 17.1.2 (conda-forge)}
+     zeromq  {4.2.2 -> 4.2.5 (conda-forge)}
+
+2018-09-14 14:36:16  (rev 58)
+     ca-certificates  {2018.8.24 (conda-forge) -> 2018.03.07}
+     certifi  {2018.8.24 (conda-forge) -> 2018.1.18 (intel)}
+     conda  {4.5.11 (conda-forge) -> 4.5.11}
+     openssl  {1.0.2p (conda-forge) -> 1.0.2o (intel)}
+    -ipykernel-4.9.0
+    -ipywidgets-7.1.2
+    -jupyter-1.0.0 (intel)
+    -jupyter_client-5.2.3
+    -jupyter_console-5.2.0
+    -jupyter_contrib_core-0.3.3 (conda-forge)
+    -jupyter_contrib_nbextensions-0.5.0 (conda-forge)
+    -jupyter_highlight_selected_word-0.2.0 (conda-forge)
+    -jupyter_latex_envs-1.4.4 (conda-forge)
+    -jupyter_nbextensions_configurator-0.4.0 (conda-forge)
+    -jupyterlab-0.31.12 (conda-forge)
+    -jupyterlab_launcher-0.10.5 (conda-forge)
+    -nbconvert-5.3.1
+    -notebook-5.4.1
+    -pyzmq-17.1.2 (conda-forge)
+    -qtconsole-4.3.1
+    -spyder-3.2.4
+    -widgetsnbextension-3.1.4 (conda-forge)
+    -zeromq-4.2.5 (conda-forge)
+
+2018-09-14 14:37:32  (rev 59)
+     libsodium  {1.0.13 -> 1.0.16}
+    +zeromq-4.2.5
+
+2018-09-14 14:39:24  (rev 60)
+    +ipykernel-4.6.1 (intel)
+    +ipywidgets-7.0.0 (intel)
+    +jupyter-1.0.0 (intel)
+    +jupyter_client-5.1.0 (intel)
+    +jupyter_console-5.1.0 (intel)
+    +nbconvert-5.2.1 (intel)
+    +notebook-5.2.2 (intel)
+    +pyzmq-16.0.2 (intel)
+    +widgetsnbextension-3.2.0 (intel)
+
+2018-09-14 14:41:07  (rev 61)
+    -zeromq-4.2.5
+
+2018-09-14 14:42:50  (rev 62)
+     ca-certificates  {2018.03.07 -> 2018.03.07 (anaconda)}
+     certifi  {2018.1.18 (intel) -> 2018.8.24 (anaconda)}
+     conda  {4.5.11 -> 4.5.11 (anaconda)}
+     openssl  {1.0.2o (intel) -> 1.0.2p (anaconda)}
+     pyzmq  {16.0.2 (intel) -> 17.1.2 (anaconda)}
+    +zeromq-4.2.5 (anaconda)
+
+2018-09-14 14:48:04  (rev 63)
+     certifi  {2018.8.24 (anaconda) -> 2018.1.18 (intel)}
+     openssl  {1.0.2p (anaconda) -> 1.0.2o (intel)}
+
+2018-10-04 14:41:58  (rev 64)
+     _license  {1.1 -> 1.1 (anaconda)}
+     alabaster  {0.7.10 -> 0.7.10 (anaconda)}
+     anaconda  {custom -> custom (anaconda)}
+     anaconda-client  {1.6.5 -> 1.6.5 (anaconda)}
+     anaconda-navigator  {1.6.9 -> 1.6.9 (anaconda)}
+     anaconda-project  {0.8.0 -> 0.8.0 (anaconda)}
+     apipkg  {1.4 -> 1.4 (anaconda)}
+     appnope  {0.1.0 -> 0.1.0 (anaconda)}
+     appscript  {1.0.1 -> 1.0.1 (anaconda)}
+     asn1crypto  {0.24.0 -> 0.24.0 (anaconda)}
+     astroid  {1.5.3 -> 1.5.3 (anaconda)}
+     attrs  {17.4.0 -> 17.4.0 (anaconda)}
+     babel  {2.5.0 -> 2.5.0 (anaconda)}
+     backcall  {0.1.0 -> 0.1.0 (anaconda)}
+     backports  {1.0 -> 1.0 (anaconda)}
+     backports.shutil_get_terminal_size  {1.0.0 -> 1.0.0 (anaconda)}
+     beautifulsoup4  {4.6.0 -> 4.6.0 (anaconda)}
+     bitarray  {0.8.1 -> 0.8.1 (anaconda)}
+     bkcharts  {0.2 -> 0.2 (anaconda)}
+     blas  {1.0 -> 1.0 (anaconda)}
+     bleach  {2.1.4 -> 2.1.4 (anaconda)}
+     blosc  {1.14.4 -> 1.14.4 (anaconda)}
+     bokeh  {0.13.0 -> 0.13.0 (anaconda)}
+     boto  {2.48.0 -> 2.48.0 (anaconda)}
+     bottleneck  {1.2.1 -> 1.2.1 (anaconda)}
+     bzip2  {1.0.6 -> 1.0.6 (anaconda)}
+     cffi  {1.11.5 -> 1.11.5 (anaconda)}
+     chardet  {3.0.4 -> 3.0.4 (anaconda)}
+     click  {6.7 -> 6.7 (anaconda)}
+     cloudpickle  {0.4.0 -> 0.4.0 (anaconda)}
+     clyent  {1.2.2 -> 1.2.2 (anaconda)}
+     cmake  {3.9.4 -> 3.9.4 (anaconda)}
+     colorama  {0.3.9 -> 0.3.9 (anaconda)}
+     colorcet  {1.0.0 -> 1.0.0 (anaconda)}
+     conda-env  {2.6.0 -> 2.6.0 (anaconda)}
+     contextlib2  {0.5.5 -> 0.5.5 (anaconda)}
+     coverage  {4.5.1 -> 4.5.1 (anaconda)}
+     curl  {7.55.1 -> 7.55.1 (anaconda)}
+     cycler  {0.10.0 -> 0.10.0 (anaconda)}
+     cython  {0.28.5 -> 0.28.5 (anaconda)}
+     cytoolz  {0.8.2 -> 0.8.2 (anaconda)}
+     dask  {0.17.2 -> 0.17.2 (anaconda)}
+     dask-core  {0.17.2 -> 0.17.2 (anaconda)}
+     datashape  {0.5.4 -> 0.5.4 (anaconda)}
+     dbus  {1.10.22 -> 1.10.22 (anaconda)}
+     decorator  {4.3.0 -> 4.3.0 (anaconda)}
+     distributed  {1.21.6 -> 1.21.6 (anaconda)}
+     docutils  {0.14 -> 0.14 (anaconda)}
+     entrypoints  {0.2.3 -> 0.2.3 (anaconda)}
+     et_xmlfile  {1.0.1 -> 1.0.1 (anaconda)}
+     execnet  {1.5.0 -> 1.5.0 (anaconda)}
+     expat  {2.2.4 -> 2.2.4 (anaconda)}
+     fastcache  {1.0.2 -> 1.0.2 (anaconda)}
+     filelock  {2.0.12 -> 2.0.12 (anaconda)}
+     flake8  {3.3.0 (conda-forge) -> 3.3.0 (anaconda)}
+     flask  {0.12.2 -> 0.12.2 (anaconda)}
+     flask-cors  {3.0.3 -> 3.0.3 (anaconda)}
+     freetype  {2.8 -> 2.8 (anaconda)}
+     future  {0.16.0 (conda-forge) -> 0.16.0 (anaconda)}
+     futures-compat  {1.0 -> 1.0 (anaconda)}
+     get_terminal_size  {1.0.0 -> 1.0.0 (anaconda)}
+     gettext  {0.19.8.1 -> 0.19.8.1 (anaconda)}
+     gevent  {1.2.2 -> 1.2.2 (anaconda)}
+     glib  {2.53.6 -> 2.53.6 (anaconda)}
+     glob2  {0.5 -> 0.5 (anaconda)}
+     gmp  {6.1.2 -> 6.1.2 (anaconda)}
+     gmpy2  {2.0.8 -> 2.0.8 (anaconda)}
+     greenlet  {0.4.12 -> 0.4.12 (anaconda)}
+     h5py  {2.7.0 -> 2.7.0 (anaconda)}
+     hdf5  {1.10.1 -> 1.10.1 (anaconda)}
+     heapdict  {1.0.0 -> 1.0.0 (anaconda)}
+     holoviews  {1.8.3 -> 1.8.3 (anaconda)}
+     html5lib  {1.0.1 -> 1.0.1 (anaconda)}
+     icu  {58.2 -> 58.2 (anaconda)}
+     idna  {2.7 -> 2.7 (anaconda)}
+     imageio  {2.2.0 -> 2.2.0 (anaconda)}
+     imagesize  {0.7.1 -> 0.7.1 (anaconda)}
+     intel-openmp  {2018.0.0 -> 2018.0.0 (anaconda)}
+     ipython  {6.5.0 -> 6.5.0 (anaconda)}
+     ipython_genutils  {0.2.0 -> 0.2.0 (anaconda)}
+     isort  {4.2.15 -> 4.2.15 (anaconda)}
+     itsdangerous  {0.24 -> 0.24 (anaconda)}
+     jbig  {2.1 -> 2.1 (anaconda)}
+     jdcal  {1.3 -> 1.3 (anaconda)}
+     jedi  {0.12.1 -> 0.12.1 (anaconda)}
+     jinja2  {2.10 -> 2.10 (anaconda)}
+     jpeg  {9b -> 9b (anaconda)}
+     jsonschema  {2.6.0 -> 2.6.0 (anaconda)}
+     jupyter  {1.0.0 (intel) -> 1.0.0 (anaconda)}
+     jupyter_core  {4.4.0 -> 4.4.0 (anaconda)}
+     keyring  {13.2.1 (conda-forge) -> 13.2.1 (anaconda)}
+     kiwisolver  {1.0.1 -> 1.0.1 (anaconda)}
+     lazy-object-proxy  {1.3.1 -> 1.3.1 (anaconda)}
+     libcxx  {4.0.1 -> 4.0.1 (anaconda)}
+     libcxxabi  {4.0.1 -> 4.0.1 (anaconda)}
+     libedit  {3.1 -> 3.1 (anaconda)}
+     libffi  {3.2.1 -> 3.2.1 (anaconda)}
+     libgfortran  {3.0.1 -> 3.0.1 (anaconda)}
+     libiconv  {1.15 -> 1.15 (anaconda)}
+     libpng  {1.6.34 -> 1.6.34 (anaconda)}
+     libsodium  {1.0.16 -> 1.0.16 (anaconda)}
+     libssh2  {1.8.0 -> 1.8.0 (anaconda)}
+     libtiff  {4.0.8 -> 4.0.8 (anaconda)}
+     libuv  {1.14.0 -> 1.14.0 (anaconda)}
+     libxml2  {2.9.8 -> 2.9.8 (anaconda)}
+     libxslt  {1.1.32 -> 1.1.32 (anaconda)}
+     line_profiler  {2.0 -> 2.0 (anaconda)}
+     llvmlite  {0.24.0 -> 0.24.0 (anaconda)}
+     locket  {0.2.0 -> 0.2.0 (anaconda)}
+     lxml  {4.2.1 -> 4.2.1 (anaconda)}
+     lzo  {2.10 -> 2.10 (anaconda)}
+     markupsafe  {1.0 -> 1.0 (anaconda)}
+     matplotlib  {2.2.2 -> 2.2.2 (anaconda)}
+     mccabe  {0.6.1 -> 0.6.1 (anaconda)}
+     mistune  {0.8.3 -> 0.8.3 (anaconda)}
+     mkl-service  {1.1.2 -> 1.1.2 (anaconda)}
+     mkl_fft  {1.0.1 -> 1.0.1 (anaconda)}
+     mkl_random  {1.0.1 -> 1.0.1 (anaconda)}
+     mock  {2.0.0 -> 2.0.0 (anaconda)}
+     more-itertools  {4.1.0 -> 4.1.0 (anaconda)}
+     mpc  {1.0.3 -> 1.0.3 (anaconda)}
+     mpfr  {3.1.5 -> 3.1.5 (anaconda)}
+     mpmath  {1.0.0 -> 1.0.0 (anaconda)}
+     msgpack-python  {0.4.8 -> 0.4.8 (anaconda)}
+     multipledispatch  {0.4.9 -> 0.4.9 (anaconda)}
+     navigator-updater  {0.1.0 -> 0.1.0 (anaconda)}
+     nbformat  {4.4.0 -> 4.4.0 (anaconda)}
+     ncurses  {6.0 -> 6.0 (anaconda)}
+     networkx  {2.1 -> 2.1 (anaconda)}
+     nltk  {3.2.4 -> 3.2.4 (anaconda)}
+     nodejs  {8.9.3 -> 8.9.3 (anaconda)}
+     nose  {1.3.7 -> 1.3.7 (anaconda)}
+     notebook  {5.2.2 (intel) -> 5.2.2 (conda-forge)}
+     numba  {0.39.0 -> 0.39.0 (anaconda)}
+     numexpr  {2.6.5 -> 2.6.5 (anaconda)}
+     numpy  {1.14.2 -> 1.14.2 (anaconda)}
+     numpydoc  {0.7.0 -> 0.7.0 (anaconda)}
+     olefile  {0.44 -> 0.44 (anaconda)}
+     openpyxl  {2.4.8 -> 2.4.8 (anaconda)}
+     packaging  {17.1 -> 17.1 (anaconda)}
+     pandas  {0.22.0 -> 0.22.0 (anaconda)}
+     pandas-profiling  {1.4.0 (jos_pol) -> 1.4.0 (anaconda)}
+     pandoc  {1.19.2.1 -> 1.19.2.1 (anaconda)}
+     pandocfilters  {1.4.2 -> 1.4.2 (anaconda)}
+     param  {1.5.1 (ioam) -> 1.5.1 (anaconda)}
+     parso  {0.3.1 -> 0.3.1 (anaconda)}
+     partd  {0.3.8 -> 0.3.8 (anaconda)}
+     path.py  {11.1.0 -> 11.1.0 (anaconda)}
+     pathlib2  {2.3.0 -> 2.3.0 (anaconda)}
+     patsy  {0.4.1 -> 0.4.1 (anaconda)}
+     pbr  {4.0.0 -> 4.0.0 (anaconda)}
+     pcre  {8.41 -> 8.41 (anaconda)}
+     pep8  {1.7.0 -> 1.7.0 (anaconda)}
+     pexpect  {4.6.0 -> 4.6.0 (anaconda)}
+     phantomjs  {2.1.1 (conda-forge) -> 2.1.1 (anaconda)}
+     pickleshare  {0.7.4 -> 0.7.4 (anaconda)}
+     pillow  {4.2.1 -> 4.2.1 (anaconda)}
+     pip  {10.0.1 -> 10.0.1 (anaconda)}
+     pkginfo  {1.4.1 -> 1.4.1 (anaconda)}
+     pluggy  {0.6.0 -> 0.6.0 (anaconda)}
+     ply  {3.10 -> 3.10 (anaconda)}
+     prompt_toolkit  {1.0.15 -> 1.0.15 (anaconda)}
+     psutil  {5.4.0 -> 5.4.0 (anaconda)}
+     ptyprocess  {0.6.0 -> 0.6.0 (anaconda)}
+     py  {1.5.3 -> 1.5.3 (anaconda)}
+     pycodestyle  {2.3.1 -> 2.3.1 (anaconda)}
+     pycosat  {0.6.3 -> 0.6.3 (anaconda)}
+     pycparser  {2.18 -> 2.18 (anaconda)}
+     pycrypto  {2.6.1 -> 2.6.1 (anaconda)}
+     pycurl  {7.43.0.1 -> 7.43.0.1 (anaconda)}
+     pyflakes  {1.5.0 (conda-forge) -> 1.5.0 (anaconda)}
+     pygments  {2.2.0 -> 2.2.0 (anaconda)}
+     pylint  {1.7.4 -> 1.7.4 (anaconda)}
+     pyodbc  {4.0.17 -> 4.0.17 (anaconda)}
+     pyopenssl  {18.0.0 -> 18.0.0 (anaconda)}
+     pyparsing  {2.2.0 -> 2.2.0 (anaconda)}
+     pyqt  {5.6.0 -> 5.6.0 (anaconda)}
+     pyshp  {1.2.12 -> 1.2.12 (anaconda)}
+     pysocks  {1.6.8 -> 1.6.8 (anaconda)}
+     pytables  {3.4.3 -> 3.4.3 (anaconda)}
+     pytest  {3.5.0 -> 3.5.0 (anaconda)}
+     pytest-arraydiff  {0.2 -> 0.2 (anaconda)}
+     pytest-astropy  {0.2.1 -> 0.2.1 (anaconda)}
+     pytest-base-url  {1.4.1 -> 1.4.1 (anaconda)}
+     pytest-cov  {2.5.1 -> 2.5.1 (anaconda)}
+     pytest-doctestplus  {0.1.2 -> 0.1.2 (anaconda)}
+     pytest-forked  {0.2 -> 0.2 (anaconda)}
+     pytest-html  {1.16.1 -> 1.16.1 (anaconda)}
+     pytest-metadata  {1.6.0 -> 1.6.0 (anaconda)}
+     pytest-openfiles  {0.2.0 -> 0.2.0 (anaconda)}
+     pytest-remotedata  {0.2.0 -> 0.2.0 (anaconda)}
+     pytest-selenium  {1.12.0 -> 1.12.0 (anaconda)}
+     pytest-variables  {1.7.1 -> 1.7.1 (anaconda)}
+     pytest-xdist  {1.22.2 -> 1.22.2 (anaconda)}
+     python  {3.6.5 -> 3.6.5 (anaconda)}
+     python-dateutil  {2.7.3 -> 2.7.3 (anaconda)}
+     python.app  {2 -> 2 (anaconda)}
+     pytz  {2018.5 -> 2018.5 (anaconda)}
+     pywavelets  {0.5.2 -> 0.5.2 (anaconda)}
+     pyyaml  {3.13 -> 3.13 (anaconda)}
+     qt  {5.6.2 -> 5.6.2 (anaconda)}
+     qtawesome  {0.4.4 -> 0.4.4 (anaconda)}
+     qtpy  {1.3.1 -> 1.3.1 (anaconda)}
+     readline  {7.0 -> 7.0 (anaconda)}
+     requests  {2.19.1 -> 2.19.1 (anaconda)}
+     rhash  {1.3.5 -> 1.3.5 (anaconda)}
+     rope  {0.10.5 -> 0.10.5 (anaconda)}
+     ruamel_yaml  {0.11.14 -> 0.11.14 (anaconda)}
+     scikit-image  {0.13.1 -> 0.13.1 (anaconda)}
+     scikit-learn  {0.19.1 -> 0.19.1 (anaconda)}
+     scipy  {1.1.0 -> 1.1.0 (anaconda)}
+     seaborn  {0.8.0 -> 0.8.0 (anaconda)}
+     selenium  {3.11.0 -> 3.11.0 (anaconda)}
+     send2trash  {1.5.0 -> 1.5.0 (anaconda)}
+     simplegeneric  {0.8.1 -> 0.8.1 (anaconda)}
+     singledispatch  {3.4.0.3 -> 3.4.0.3 (anaconda)}
+     sip  {4.18.1 -> 4.18.1 (anaconda)}
+     six  {1.11.0 -> 1.11.0 (anaconda)}
+     snappy  {1.1.7 -> 1.1.7 (anaconda)}
+     snowballstemmer  {1.2.1 -> 1.2.1 (anaconda)}
+     sortedcollections  {0.5.3 -> 0.5.3 (anaconda)}
+     sortedcontainers  {1.5.7 -> 1.5.7 (anaconda)}
+     sphinx  {1.7.2 -> 1.7.2 (anaconda)}
+     sphinxcontrib  {1.0 -> 1.0 (anaconda)}
+     sphinxcontrib-websupport  {1.0.1 -> 1.0.1 (anaconda)}
+     sqlalchemy  {1.1.13 -> 1.1.13 (anaconda)}
+     sqlite  {3.23.1 -> 3.23.1 (anaconda)}
+     statsmodels  {0.8.0 -> 0.8.0 (anaconda)}
+     sympy  {1.2 -> 1.2 (anaconda)}
+     tblib  {1.3.2 -> 1.3.2 (anaconda)}
+     terminado  {0.8.1 -> 0.8.1 (anaconda)}
+     testpath  {0.3.1 -> 0.3.1 (anaconda)}
+     tk  {8.6.8 -> 8.6.8 (anaconda)}
+     toolz  {0.8.2 -> 0.8.2 (anaconda)}
+     tornado  {5.1 -> 5.1 (anaconda)}
+     traitlets  {4.3.2 -> 4.3.2 (anaconda)}
+     typing  {3.6.4 -> 3.6.4 (anaconda)}
+     unicodecsv  {0.14.1 -> 0.14.1 (anaconda)}
+     unixodbc  {2.3.4 -> 2.3.4 (anaconda)}
+     urllib3  {1.23 -> 1.23 (anaconda)}
+     wcwidth  {0.1.7 -> 0.1.7 (anaconda)}
+     webencodings  {0.5.1 -> 0.5.1 (anaconda)}
+     werkzeug  {0.12.2 -> 0.12.2 (anaconda)}
+     wheel  {0.31.1 -> 0.31.1 (anaconda)}
+     wrapt  {1.10.11 -> 1.10.11 (anaconda)}
+     xarray  {0.9.6 -> 0.9.6 (anaconda)}
+     xlrd  {1.1.0 -> 1.1.0 (anaconda)}
+     xlsxwriter  {1.0.2 -> 1.0.2 (anaconda)}
+     xlwings  {0.11.4 -> 0.11.4 (anaconda)}
+     xlwt  {1.2.0 -> 1.2.0 (anaconda)}
+     xz  {5.2.4 -> 5.2.4 (anaconda)}
+     yaml  {0.1.7 -> 0.1.7 (anaconda)}
+     zict  {0.1.3 -> 0.1.3 (anaconda)}
+     zlib  {1.2.11 -> 1.2.11 (anaconda)}
+    +qtconsole-4.3.1 (anaconda)
+

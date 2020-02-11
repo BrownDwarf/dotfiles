@@ -1,0 +1,25 @@
+name: lightkurve_env
+channels:
+  - anaconda
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - emcee
+  - lightkurve
+  - tqdm
+  - mkl
+  - bokeh
+  - bzip2
+  - coverage
+  - curl
+  - cython
+  - ipython
+  - jupyter
+  - numpy
+  - pandas
+  - pytest
+  - requests
+  - scikit-learn
+  - scipy
+  - seaborn

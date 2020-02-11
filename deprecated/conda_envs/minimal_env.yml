@@ -1,0 +1,6 @@
+name: base
+channels:
+  - anaconda
+dependencies:
+  - python=3.7
+  - anaconda
